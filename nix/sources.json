@@ -11,6 +11,18 @@
         "url": "https://github.com/DeltaGroupNJUPT/Vina-GPU/archive/f314354bbdf34559b4f6d8cef93e3598c45ba5bc.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
+    "jq": {
+        "branch": "master",
+        "description": "Command-line JSON processor",
+        "homepage": "http://stedolan.github.io/jq/",
+        "owner": "stedolan",
+        "repo": "jq",
+        "rev": "cff5336ec71b6fee396a95bb0e4bea365e0cd1e8",
+        "sha256": "17cdjz54yg6yls3l2n69b67hbi7y7ic1znbym196f0n4xv4y1jc2",
+        "type": "tarball",
+        "url": "https://github.com/stedolan/jq/archive/cff5336ec71b6fee396a95bb0e4bea365e0cd1e8.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
     "nixpkgs": {
         "branch": "release-21.05",
         "description": "Nix Packages collection",
