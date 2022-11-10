@@ -1,14 +1,26 @@
 {
+    "Vina-GPU": {
+        "branch": "main",
+        "description": "A heterogeneous OpenCL implementation of AutoDock Vina",
+        "homepage": null,
+        "owner": "DeltaGroupNJUPT",
+        "repo": "Vina-GPU",
+        "rev": "f314354bbdf34559b4f6d8cef93e3598c45ba5bc",
+        "sha256": "0gsbfmqj7knipp0zz42nb9mxhls2nhb17i0fv1ij66gjcgxh7lwm",
+        "type": "tarball",
+        "url": "https://github.com/DeltaGroupNJUPT/Vina-GPU/archive/f314354bbdf34559b4f6d8cef93e3598c45ba5bc.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
     "nixpkgs": {
         "branch": "release-21.05",
         "description": "Nix Packages collection",
         "homepage": "",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "5f244caea76105b63d826911b2a1563d33ff1cdc",
-        "sha256": "1xlgynfw9svy7nvh9nkxsxdzncv9hg99gbvbwv3gmrhmzc3sar75",
+        "rev": "022caabb5f2265ad4006c1fa5b1ebe69fb0c3faf",
+        "sha256": "12q00nbd7fb812zchbcnmdg3pw45qhxm74hgpjmshc2dfmgkjh4n",
         "type": "tarball",
-        "url": "https://github.com/NixOS/nixpkgs/archive/5f244caea76105b63d826911b2a1563d33ff1cdc.tar.gz",
+        "url": "https://github.com/NixOS/nixpkgs/archive/022caabb5f2265ad4006c1fa5b1ebe69fb0c3faf.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     }
 }
